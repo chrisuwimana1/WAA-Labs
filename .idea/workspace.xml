@@ -8,7 +8,25 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e91ca5c-88c7-4760-af11-a5c8e6686289" name="Default Changelist" comment="" />
+    <list default="true" id="8e91ca5c-88c7-4760-af11-a5c8e6686289" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/LoginSuccessfull.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/advice.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Calculator/target/Calculator.war" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Calculator/target/Calculator.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks.war" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/classes/mum/edu/cs/AdviceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/classes/mum/edu/cs/AdviceServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/classes/mum/edu/cs/AuthenticationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/classes/mum/edu/cs/AuthenticationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/Starbucks/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/classes/mum/edu/cs/AdviceServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/classes/mum/edu/cs/AdviceServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Starbucks/target/classes/mum/edu/cs/AuthenticationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Starbucks/target/classes/mum/edu/cs/AuthenticationServlet.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Lab1/target/" />
@@ -24,89 +42,18 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-              <folding>
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/data/DataFacade.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/data/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="36" column="56" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="56" />
-              <folding>
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,11 +63,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Lab1/Calculator/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/Lab1/Calculator/src/main/java/com/uwimana/CalculatorServlet.java" />
-        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/Lab1/Starbucks/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/display.jsp" />
         <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/LoginSuccessful.jsp" />
         <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/LoginSuccessfull.jsp" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/advice.jsp" />
+        <option value="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java" />
       </list>
     </option>
   </component>
@@ -132,11 +83,11 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-89" />
-    <option name="y" value="146" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="567" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -159,83 +110,13 @@
               <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAA" type="462c0819:PsiDirectoryNode" />
               <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
               <item name="WAA" type="462c0819:PsiDirectoryNode" />
               <item name="Lab1" type="462c0819:PsiDirectoryNode" />
               <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WAA" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="Starbucks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WAALabs" type="b2602c69:ProjectViewProjectNode" />
@@ -249,9 +130,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/listener" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -261,6 +143,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Christian\Documents\WAA\Lab1\Starbucks\src\main\webapp" />
       <recent name="C:\Users\Christian\Documents\WAA\Lab1\Starbucks\src\main\java\mum\edu\listener" />
       <recent name="C:\Users\Christian\Documents\WAA\Lab1\Starbucks\src\main\java\mum\edu\data" />
     </key>
@@ -456,17 +339,17 @@
       <workItem from="1556595878905" duration="4613000" />
       <workItem from="1556651984957" duration="2281000" />
       <workItem from="1556726515843" duration="728000" />
-      <workItem from="1556727303478" duration="6549000" />
+      <workItem from="1556727303478" duration="14190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14171000" />
+    <option name="totallyTimeSpent" value="21812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49579832" visible="true" weight="0.17549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49579832" visible="true" weight="0.23903178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -476,7 +359,7 @@
       <window_info id="Web" order="7" sideWeight="0.5042017" side_tool="true" weight="0.17549168" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.22094926" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33224222" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -485,7 +368,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.22094926" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -546,13 +429,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/Calculator/src/main/java/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/Calculator/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -570,13 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/Calculator/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -591,25 +460,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java">
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/listener/StarbucksContextListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="56" />
-          <folding>
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-          <folding>
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -630,31 +484,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/listener/StarbucksContextListener.java">
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/LoginSuccessful.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/LoginSuccessful.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AuthenticationServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/java/mum/edu/cs/AdviceServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#951#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/LoginSuccessfull.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <caret line="28" column="53" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" column="83" lean-forward="true" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        <state relative-caret-position="459">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/advice.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab1/Starbucks/src/main/webapp/display.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
