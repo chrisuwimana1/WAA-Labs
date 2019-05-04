@@ -57,7 +57,9 @@ public class CalculatorServlet extends HttpServlet {
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-        doPost(request, response);
+        //doPost(request, response);
+
+        request.getRequestDispatcher("/WEB-INF/calculator.jsp").forward(request, response);
 
 
 //        String sum = "";
