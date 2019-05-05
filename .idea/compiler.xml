@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CalculatorLab3" />
-        <module name="StarbucksLab3" />
-        <module name="Calculator" />
+        <module name="ProductLab4" />
         <module name="StarBucks1" />
+        <module name="Calculator" />
+        <module name="StarbucksLab3" />
+        <module name="CalculatorLab3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Lab4" target="1.7" />
       <module name="Starbucks" target="1.8" />
     </bytecodeTargetLevel>
   </component>

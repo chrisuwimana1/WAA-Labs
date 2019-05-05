@@ -29,13 +29,13 @@ public class LoginController {
 
         if (loggedInUser == null){
             System.out.println("Not found");
-            return "login";
+            return "redirect:/login";
         }else{
             if (loggedInUser.getPassword().equals(user.getPassword())){
                 return "LoginSuccessful";
             }else{
                 System.out.println("Wrong Password");
-                return "login";
+                return "redirect:/login";
             }
         }
 

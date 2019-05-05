@@ -6,6 +6,8 @@
     <file type="web" url="file://$PROJECT_DIR$/Lab1/Starbucks" />
     <file type="web" url="file://$PROJECT_DIR$/Lab1/StarBucks-1" />
     <file type="web" url="file://$PROJECT_DIR$/Lab3" />
+    <file type="web" url="file://$PROJECT_DIR$/Lab4" />
+    <file type="web" url="file://$PROJECT_DIR$/ProductLab4" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -16,6 +18,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Lab1/Starbucks/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab4/pom.xml" />
       </set>
     </option>
   </component>
