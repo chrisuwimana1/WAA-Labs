@@ -13,7 +13,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>Calculator</module>
-        <module>Starbucks</module>
         <module>StarBucks-1</module>
     </modules>
     <dependencies>

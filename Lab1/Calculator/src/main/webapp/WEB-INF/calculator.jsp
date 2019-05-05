@@ -18,6 +18,6 @@
     <input name="num3"> * <input name="num4"> = <input name="product" readonly>
     <br>
     <input type="submit" value="Submit" >
-
+</form>
 </body>
 </html>
