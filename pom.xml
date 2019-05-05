@@ -13,6 +13,7 @@
       <module>ProductLab4</module>
       <module>Lab5</module>
       <module>Lab6</module>
+      <module>Lab2</module>
   </modules>
   <packaging>pom</packaging>
 

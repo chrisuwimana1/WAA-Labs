@@ -12,6 +12,7 @@
         <module name="Lab6" />
         <module name="Calculator" />
         <module name="StarbucksLab5" />
+        <module name="Lab2" />
         <module name="StarbucksLab3" />
         <module name="CalculatorLab3" />
       </profile>
