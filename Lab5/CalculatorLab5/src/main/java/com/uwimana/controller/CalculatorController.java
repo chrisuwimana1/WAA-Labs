@@ -42,6 +42,6 @@ public class CalculatorController {
         redirectAttributes.addAttribute( "heading","Christian!");
         //redirectAttributes.addAttribute(heading);
 
-        return "result" ;
+        return "redirect:result" ;
     }
 }

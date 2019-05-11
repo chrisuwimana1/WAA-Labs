@@ -17,8 +17,7 @@
        Student LastName: ${student.lastName}<br>
        Student Email: ${student.email}<br> 
        Student Phone: ${student.phone.area}-${student.phone.prefix}-${student.phone.number}<br> 
-       
-       
+
   </p>
 </body>
 </html>

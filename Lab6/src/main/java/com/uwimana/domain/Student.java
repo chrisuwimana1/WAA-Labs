@@ -12,13 +12,12 @@ import org.hibernate.validator.constraints.NotBlank;
 import org.hibernate.validator.constraints.NotEmpty;
 import org.springframework.format.annotation.DateTimeFormat;
 
-
 public class Student {
 
     private Integer id;
 
 
-    @NotBlank(message="{String.isEmpty}")
+    @NotEmpty
     @Size(min = 4, max = 50, message="{Size.firstName.validation}")
     private String firstName = null;
 

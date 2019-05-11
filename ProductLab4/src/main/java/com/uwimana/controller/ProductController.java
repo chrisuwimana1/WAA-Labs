@@ -34,16 +34,13 @@ public class ProductController {
  
         List<Category> categories = categoryService.getAll();
         model.addAttribute("categories", categories);
-      
         return "ProductForm";
     }
-
 
     @RequestMapping(value="/product", method = RequestMethod.POST)
     public String saveProduct(@ModelAttribute("newProduct") Product product ) {
         Category category = categoryService.getCategory(product.getCategory().getId());
         product.setCategory(category);
-
         productService.save(product);
 
         return "ProductDetails";
@@ -52,8 +49,6 @@ public class ProductController {
 
     @RequestMapping(value="/listproducts", method = RequestMethod.GET)
     public String listProducts(Model model ) {
-
-
         List<Product> list = productService.getAll();
         model.addAttribute("products",  list);
 
